@@ -9,7 +9,7 @@ on:
 
 jobs:
    SetUp:
-       name: terraformsetup
+       name: terraformgithub
        runs-on: ubuntu-latest
 
 
